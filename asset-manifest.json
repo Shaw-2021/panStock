@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/panStock/static/css/main.b0145c31.css",
+    "main.js": "/panStock/static/js/main.77078dcd.js",
+    "static/js/787.ebce960f.chunk.js": "/panStock/static/js/787.ebce960f.chunk.js",
+    "index.html": "/panStock/index.html",
+    "main.b0145c31.css.map": "/panStock/static/css/main.b0145c31.css.map",
+    "main.77078dcd.js.map": "/panStock/static/js/main.77078dcd.js.map",
+    "787.ebce960f.chunk.js.map": "/panStock/static/js/787.ebce960f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0145c31.css",
+    "static/js/main.77078dcd.js"
+  ]
+}
